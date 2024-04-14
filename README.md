@@ -6,4 +6,4 @@ MVC helps in separating the concerns of an application, making it easier to mana
 
 ## Web Framework : PHP
 
-<img src="">
+<img src="https://github.com/Moonheeui/MVC/blob/6bd4eee8cc48c38fb45926faad3756f84302347e/images/awp-mvc.jpg">
